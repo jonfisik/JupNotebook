@@ -1,2 +1,2 @@
 # JupNotebook
- Repositório para arquivos jupyter notebook
+ Repositório para arquivos da linguagem **Python** com *jupyter notebook*.
